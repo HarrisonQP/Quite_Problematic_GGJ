@@ -1,41 +1,15 @@
-# Compiled Lua sources
-luac.out
+# Temporary files used when publishing & to store some preview data like persistent storage
+# No need to synchronize
+Temp/
 
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
+# Local user settings used to store script breakpoints & hierarchy state (locked/hidden objects)
+# No need to synchronize
+UserSettings/
 
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
+# Screenshots used when publishing & for project thumbnails in the Create tab
+# Comment out if you want to synchronize screenshots
+Screenshots/
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
+# Directory created when migrating from an old storage format
+# No need to synchronize
+.core_backup/
