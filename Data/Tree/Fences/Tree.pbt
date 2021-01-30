@@ -8732,47 +8732,6 @@ Objects {
   }
 }
 Objects {
-  Id: 4679236782267723323
-  Name: "Urban Fence Doorway"
-  Transform {
-    Location {
-      X: 365.175751
-      Y: 2614.84
-      Z: 49.9550743
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.399999976
-      Y: 0.5
-      Z: 0.333333343
-    }
-  }
-  ParentId: 4206371078053292795
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 9279130763178750287
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-    }
-  }
-}
-Objects {
   Id: 5614988913442298089
   Name: "Urban Fence Panel"
   Transform {
