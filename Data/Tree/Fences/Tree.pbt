@@ -5,9 +5,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 3673.24976
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 4373.25
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -15,7 +15,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -47,17 +47,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 3568.41357
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 4268.41406
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -89,9 +89,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 3466.22144
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 4166.22168
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -99,7 +99,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -131,17 +131,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 3153.33716
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 3853.33716
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -173,9 +173,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 5127.77051
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 5827.77051
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -183,7 +183,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -215,17 +215,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 5022.93164
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 5722.93164
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -257,9 +257,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 4919.71973
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 5619.71973
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -267,7 +267,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -299,17 +299,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 4814.88379
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 5514.88379
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -341,9 +341,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 4712.12
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 5412.12
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -351,7 +351,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -383,17 +383,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 4607.28418
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 5307.28418
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -425,9 +425,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 4504.07227
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 5204.07227
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -435,7 +435,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -467,17 +467,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 4399.23633
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 5099.23633
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -509,9 +509,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 4296.94824
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 4996.94824
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -519,7 +519,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -551,17 +551,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 4192.10938
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 4892.10938
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -593,17 +593,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 6052.57031
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 6752.57031
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -635,9 +635,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 5959.96533
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 6659.96533
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -645,7 +645,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -677,17 +677,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 5855.12646
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 6555.12646
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -719,9 +719,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 5751.91455
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 6451.91455
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -729,7 +729,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -761,17 +761,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 5647.07861
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 6347.07861
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -803,9 +803,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 5544.31494
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 6244.31494
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -813,7 +813,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -845,17 +845,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 5439.479
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 6139.479
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -887,9 +887,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 5336.26709
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 6036.26709
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -897,7 +897,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -929,17 +929,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 5231.43115
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 5931.43115
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -971,9 +971,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 6157.40625
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 6857.40625
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -981,7 +981,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -1013,17 +1013,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 6260.61816
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 6960.61816
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -1055,9 +1055,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 6365.4541
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 7065.4541
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -1065,7 +1065,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -1097,17 +1097,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 6468.21777
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 7168.21777
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -1139,9 +1139,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 6573.05371
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 7273.05371
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -1149,7 +1149,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -1181,17 +1181,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 6676.26563
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 7376.26563
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -1223,9 +1223,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 6781.10449
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 7481.10449
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -1233,7 +1233,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -1265,17 +1265,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 6877.94922
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 7577.94922
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -1307,9 +1307,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 6982.78809
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 7682.78809
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -1317,7 +1317,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -1349,17 +1349,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 7028.41699
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 7728.41699
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.166621074
       Y: 0.500009537
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -1391,17 +1391,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 7028.41699
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 7728.41699
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.166621059
       Y: 0.500009537
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -1433,9 +1433,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 6982.78809
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 7682.78809
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -1443,7 +1443,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -1475,17 +1475,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 6877.94922
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 7577.94922
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -1517,9 +1517,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 6781.10449
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 7481.10449
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -1527,7 +1527,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -1559,17 +1559,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 6676.26563
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 7376.26563
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -1601,9 +1601,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 6573.05371
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 7273.05371
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -1611,7 +1611,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -1643,17 +1643,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 6468.21777
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 7168.21777
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -1685,9 +1685,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 6365.4541
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 7065.4541
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -1695,7 +1695,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -1727,17 +1727,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 6260.61816
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 6960.61816
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -1769,9 +1769,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 6157.40625
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 6857.40625
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -1779,7 +1779,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -1811,17 +1811,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 6052.57031
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 6752.57031
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -1853,9 +1853,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 5959.96533
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 6659.96533
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -1863,7 +1863,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -1895,17 +1895,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 5855.12646
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 6555.12646
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -1937,9 +1937,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 5751.91455
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 6451.91455
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -1947,7 +1947,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -1979,17 +1979,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 5647.07861
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 6347.07861
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -2021,9 +2021,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 5544.31494
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 6244.31494
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -2031,7 +2031,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -2063,17 +2063,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 5439.479
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 6139.479
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -2105,9 +2105,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 5336.26709
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 6036.26709
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -2115,7 +2115,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -2147,17 +2147,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 5231.43115
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 5931.43115
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -2189,9 +2189,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 5127.77051
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 5827.77051
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -2199,7 +2199,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -2231,17 +2231,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 5022.93164
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 5722.93164
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -2273,9 +2273,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 4919.71973
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 5619.71973
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -2283,7 +2283,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -2315,17 +2315,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 4814.88379
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 5514.88379
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -2357,9 +2357,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 4712.12
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 5412.12
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -2367,7 +2367,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -2399,17 +2399,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 4607.28418
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 5307.28418
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -2441,9 +2441,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 4504.07227
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 5204.07227
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -2451,7 +2451,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -2483,17 +2483,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 4399.23633
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 5099.23633
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -2525,9 +2525,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 4296.94824
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 4996.94824
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -2535,7 +2535,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -2567,17 +2567,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 4192.10938
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 4892.10938
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -2609,9 +2609,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 4088.89746
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 4788.89746
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -2619,7 +2619,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -2651,17 +2651,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 3984.06128
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 4684.06152
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -2693,9 +2693,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 3881.29785
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 4581.29785
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -2703,7 +2703,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -2735,17 +2735,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 3776.46167
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 4476.46191
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -2777,9 +2777,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 3673.24976
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 4373.25
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999619
@@ -2787,7 +2787,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -2819,17 +2819,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 3568.41357
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 4268.41406
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -2861,9 +2861,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 3466.22144
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 4166.22168
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -2871,7 +2871,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -2903,17 +2903,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 3153.33716
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 3853.33716
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -2945,9 +2945,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 3258.17334
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 3958.17358
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999619
@@ -2955,7 +2955,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -2987,17 +2987,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 3361.38525
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 4061.3855
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -3029,9 +3029,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 3050.57373
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 3750.57373
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999771
@@ -3039,7 +3039,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -3071,17 +3071,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 2945.73755
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 3645.73755
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -3113,9 +3113,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 3158.30518
-      Y: 2842.52563
-      Z: -44.5909271
+      X: 3158.30566
+      Y: 3542.52563
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999847
@@ -3123,7 +3123,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -3155,17 +3155,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3157.10303
-      Y: 2737.68945
-      Z: 41.6763153
+      X: 3157.10327
+      Y: 3437.68945
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -3197,9 +3197,9 @@ Objects {
   Name: "Urban Fence Pole - Extender Connecting Corner"
   Transform {
     Location {
-      X: -2443.82715
-      Y: 2609.59863
-      Z: -45.9858513
+      X: -2443.8269
+      Y: 3309.59863
+      Z: -45.9858055
     }
     Rotation {
       Yaw: -1.48669434
@@ -3207,7 +3207,7 @@ Objects {
     Scale {
       X: 0.436948091
       Y: 0.344434381
-      Z: 0.929745555
+      Z: 0.929745317
     }
   }
   ParentId: 4206371078053292795
@@ -3239,9 +3239,9 @@ Objects {
   Name: "Urban Fence Pole - Extender Connecting Corner"
   Transform {
     Location {
-      X: -2432.94116
-      Y: 7080.17383
-      Z: -45.9858513
+      X: -2432.94092
+      Y: 7780.17383
+      Z: -45.9858055
     }
     Rotation {
       Yaw: -87.2714844
@@ -3249,7 +3249,7 @@ Objects {
     Scale {
       X: 0.436948091
       Y: 0.344434381
-      Z: 0.929745555
+      Z: 0.929745317
     }
   }
   ParentId: 4206371078053292795
@@ -3281,9 +3281,9 @@ Objects {
   Name: "Urban Fence Pole - Extender Connecting Corner"
   Transform {
     Location {
-      X: 3157.84131
-      Y: 7082.09229
-      Z: -45.9858513
+      X: 3157.84155
+      Y: 7782.09229
+      Z: -45.9858055
     }
     Rotation {
       Yaw: 175.59993
@@ -3291,7 +3291,7 @@ Objects {
     Scale {
       X: 0.436948091
       Y: 0.344434381
-      Z: 0.929745555
+      Z: 0.929745317
     }
   }
   ParentId: 4206371078053292795
@@ -3323,16 +3323,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2341.14307
-      Y: 7080.82227
-      Z: 39.6549454
+      X: -2341.14209
+      Y: 7780.80957
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -3364,16 +3364,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2259.84692
-      Y: 7082.19482
-      Z: -44.5909691
+      X: -2259.84717
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -3405,16 +3405,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2178.60522
-      Y: 7080.82227
-      Z: 39.6549454
+      X: -2178.60474
+      Y: 7780.80957
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -3447,15 +3447,15 @@ Objects {
   Transform {
     Location {
       X: -2096.59399
-      Y: 7083.57
-      Z: -44.5909538
+      Y: 7783.57
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -3487,16 +3487,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2362.26929
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -2362.2688
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -3528,16 +3528,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2280.95776
-      Y: 2608.24219
-      Z: -44.5909691
+      X: -2280.95801
+      Y: 3308.24219
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -3569,16 +3569,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2199.73315
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -2199.73291
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -3610,16 +3610,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2117.70874
-      Y: 2609.61719
-      Z: -44.5909538
+      X: -2117.70801
+      Y: 3309.61719
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -3651,16 +3651,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2037.48511
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -2037.48438
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -3692,16 +3692,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -1874.81836
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -1874.81885
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -3734,15 +3734,15 @@ Objects {
   Transform {
     Location {
       X: -1956.14246
-      Y: 2608.24219
-      Z: -44.5909691
+      Y: 3308.24219
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -3774,16 +3774,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -1791.02466
-      Y: 2607.49902
-      Z: -44.5909081
+      X: -1791.02527
+      Y: 3307.49902
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -3815,16 +3815,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -1709.10254
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -1709.10156
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -3856,16 +3856,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -1627.79419
-      Y: 2608.24219
-      Z: -44.5909691
+      X: -1627.79407
+      Y: 3308.24219
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -3897,16 +3897,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -1546.56445
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -1546.56421
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -3938,16 +3938,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -1464.5437
-      Y: 2609.61719
-      Z: -44.5909538
+      X: -1464.54407
+      Y: 3309.61719
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -3979,16 +3979,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -1384.30908
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -1384.30786
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -4020,16 +4020,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -1221.89111
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -1221.89087
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -4061,16 +4061,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -1302.98511
-      Y: 2608.24219
-      Z: -44.5909691
+      X: -1302.98474
+      Y: 3308.24219
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -4102,16 +4102,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -1137.87024
-      Y: 2607.49902
-      Z: -44.5909081
+      X: -1137.87061
+      Y: 3307.49902
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -4143,16 +4143,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -1055.97412
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -1055.97363
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -4184,16 +4184,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -974.511658
-      Y: 2608.24219
-      Z: -44.5909691
+      X: -974.511292
+      Y: 3308.24219
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -4225,16 +4225,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -893.441711
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -893.442444
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -4267,15 +4267,15 @@ Objects {
   Transform {
     Location {
       X: -811.262878
-      Y: 2609.61719
-      Z: -44.5909538
+      Y: 3309.61719
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -4307,16 +4307,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -731.193176
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -731.192444
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -4348,16 +4348,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -649.704102
-      Y: 2608.24219
-      Z: -44.5909691
+      X: -649.703552
+      Y: 3308.24219
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -4389,16 +4389,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -568.713318
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -568.71283
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -4430,16 +4430,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -484.589905
-      Y: 2607.49902
-      Z: -44.5909081
+      X: -484.59024
+      Y: 3307.49902
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -4471,16 +4471,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 6.95717716
-      Y: 2608.24219
-      Z: -44.5909691
+      X: 6.95737267
+      Y: 3308.24219
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -4513,15 +4513,15 @@ Objects {
   Transform {
     Location {
       X: -156.533249
-      Y: 2607.49902
-      Z: -44.5909081
+      Y: 3307.49902
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -4554,15 +4554,15 @@ Objects {
   Transform {
     Location {
       X: -321.651215
-      Y: 2608.24219
-      Z: -44.5909691
+      Y: 3308.24219
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -4594,16 +4594,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -403.218445
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -403.218323
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -4635,16 +4635,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -240.732574
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -240.732422
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -4676,16 +4676,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -74.7225
-      Y: 2606.83984
-      Z: 39.6549454
+      X: -74.72229
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -4717,16 +4717,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 172.075348
-      Y: 2607.49902
-      Z: -44.5909081
+      X: 172.075333
+      Y: 3307.49902
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -4758,16 +4758,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 87.8151627
-      Y: 2606.83984
-      Z: 39.6549454
+      X: 87.8151703
+      Y: 3306.8335
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -4799,16 +4799,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2014.23828
-      Y: 7080.92188
-      Z: 39.6549454
+      X: -2014.23755
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -4840,16 +4840,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -1932.90198
-      Y: 7082.19482
-      Z: -44.5909691
+      X: -1932.90186
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -4881,16 +4881,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -1851.69897
-      Y: 7080.92188
-      Z: 39.6549454
+      X: -1851.69849
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -4922,16 +4922,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -1769.65283
-      Y: 7083.57
-      Z: -44.5909538
+      X: -1769.65344
+      Y: 7783.57
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -4963,16 +4963,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -1689.45239
-      Y: 7080.92188
-      Z: 39.6549454
+      X: -1689.45166
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -5004,16 +5004,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -1526.86133
-      Y: 7080.92188
-      Z: 39.6549454
+      X: -1526.86108
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -5045,16 +5045,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -1608.09009
-      Y: 7082.19482
-      Z: -44.5909691
+      X: -1608.08936
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -5086,16 +5086,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -1442.97412
-      Y: 7081.45166
-      Z: -44.5909081
+      X: -1442.97375
+      Y: 7781.45166
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -5127,16 +5127,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -1361.07251
-      Y: 7080.92188
-      Z: 39.6549454
+      X: -1361.07202
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -5168,16 +5168,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -1279.74585
-      Y: 7082.19482
-      Z: -44.5909691
+      X: -1279.74561
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -5209,16 +5209,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -1198.53589
-      Y: 7080.92188
-      Z: 39.6549454
+      X: -1198.53613
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -5250,16 +5250,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -1116.49524
-      Y: 7083.57
-      Z: -44.5909538
+      X: -1116.49561
+      Y: 7783.57
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -5291,16 +5291,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -1036.27905
-      Y: 7080.92188
-      Z: 39.6549454
+      X: -1036.27832
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -5332,16 +5332,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -873.857239
-      Y: 7080.92188
-      Z: 39.6549454
+      X: -873.856506
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -5373,16 +5373,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -954.936646
-      Y: 7082.19482
-      Z: -44.5909691
+      X: -954.936279
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -5414,16 +5414,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -789.821899
-      Y: 7081.45166
-      Z: -44.5909081
+      X: -789.822266
+      Y: 7781.45166
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -5455,16 +5455,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -707.938782
-      Y: 7080.92188
-      Z: 39.6549454
+      X: -707.939331
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -5496,16 +5496,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -626.463318
-      Y: 7082.19482
-      Z: -44.5909691
+      X: -626.462891
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -5537,16 +5537,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -545.403564
-      Y: 7080.92188
-      Z: 39.6549454
+      X: -545.403442
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -5579,15 +5579,15 @@ Objects {
   Transform {
     Location {
       X: -463.214478
-      Y: 7083.57
-      Z: -44.5909538
+      Y: 7783.57
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -5619,16 +5619,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -383.152222
-      Y: 7080.92188
-      Z: 39.6549454
+      X: -383.151917
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -5660,16 +5660,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -301.655701
-      Y: 7082.19482
-      Z: -44.5909691
+      X: -301.655884
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -5701,16 +5701,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -220.665009
-      Y: 7080.92188
-      Z: 39.6549454
+      X: -220.665222
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -5742,16 +5742,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -136.541443
-      Y: 7081.45166
-      Z: -44.5909081
+      X: -136.541061
+      Y: 7781.45166
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -5783,16 +5783,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 355.005585
-      Y: 7082.19482
-      Z: -44.5909691
+      X: 355.005798
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -5825,15 +5825,15 @@ Objects {
   Transform {
     Location {
       X: 191.515167
-      Y: 7081.45166
-      Z: -44.5909081
+      Y: 7781.45166
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -5866,15 +5866,15 @@ Objects {
   Transform {
     Location {
       X: 26.3972149
-      Y: 7082.19482
-      Z: -44.5909691
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -5906,16 +5906,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -55.1701508
-      Y: 7080.92188
-      Z: 39.6549454
+      X: -55.1699524
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -5947,16 +5947,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 107.315742
-      Y: 7080.92188
-      Z: 39.6549454
+      X: 107.315948
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -5988,16 +5988,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 273.325867
-      Y: 7080.92188
-      Z: 39.6549454
+      X: 273.32605
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -6030,15 +6030,15 @@ Objects {
   Transform {
     Location {
       X: 520.123718
-      Y: 7081.45166
-      Z: -44.5909081
+      Y: 7781.45166
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -6070,16 +6070,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 435.863678
-      Y: 7080.92188
-      Z: 39.6549454
+      X: 435.863525
+      Y: 7780.90918
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -6111,16 +6111,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 601.861694
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 601.861938
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -6152,16 +6152,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 683.238708
-      Y: 7082.19482
-      Z: -44.5909691
+      X: 683.238586
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -6193,16 +6193,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 764.4
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 764.400208
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -6234,16 +6234,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 846.487244
-      Y: 7083.57
-      Z: -44.5909538
+      X: 846.487061
+      Y: 7783.57
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -6275,16 +6275,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 926.651062
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 926.65094
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -6316,16 +6316,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 1089.24414
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 1089.2439
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -6358,15 +6358,15 @@ Objects {
   Transform {
     Location {
       X: 1008.04565
-      Y: 7082.19482
-      Z: -44.5909691
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -6398,16 +6398,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 1173.1593
-      Y: 7081.45166
-      Z: -44.5909081
+      X: 1173.15894
+      Y: 7781.45166
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -6439,16 +6439,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 1255.03809
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 1255.03833
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -6480,16 +6480,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 1336.38721
-      Y: 7082.19482
-      Z: -44.5909691
+      X: 1336.38708
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -6521,16 +6521,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 1417.58569
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 1417.58521
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -6562,16 +6562,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 1499.63501
-      Y: 7083.57
-      Z: -44.5909538
+      X: 1499.6355
+      Y: 7783.57
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -6603,16 +6603,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 1579.84424
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 1579.84448
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -6645,15 +6645,15 @@ Objects {
   Transform {
     Location {
       X: 1742.27734
-      Y: 7081.11377
-      Z: 39.6549454
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -6686,15 +6686,15 @@ Objects {
   Transform {
     Location {
       X: 1661.19324
-      Y: 7082.19482
-      Z: -44.5909691
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -6726,16 +6726,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 1826.30688
-      Y: 7081.45166
-      Z: -44.5909081
+      X: 1826.30737
+      Y: 7781.45166
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -6767,16 +6767,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 1908.20435
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 1908.20386
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -6808,16 +6808,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 1989.66785
-      Y: 7082.19482
-      Z: -44.5909691
+      X: 1989.66821
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -6849,16 +6849,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 2070.75195
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 2070.75146
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -6890,16 +6890,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 2152.91626
-      Y: 7083.57
-      Z: -44.5909538
+      X: 2152.91675
+      Y: 7783.57
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -6931,16 +6931,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 2233.0105
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 2233.01
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -6973,15 +6973,15 @@ Objects {
   Transform {
     Location {
       X: 2314.47363
-      Y: 7082.19482
-      Z: -44.5909691
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -7013,16 +7013,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 2395.50342
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 2395.5022
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -7055,15 +7055,15 @@ Objects {
   Transform {
     Location {
       X: 2479.58765
-      Y: 7081.45166
-      Z: -44.5909081
+      Y: 7781.45166
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -7096,15 +7096,15 @@ Objects {
   Transform {
     Location {
       X: 2971.12744
-      Y: 7082.19482
-      Z: -44.5909691
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -7136,16 +7136,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 2807.63745
-      Y: 7081.45166
-      Z: -44.5909081
+      X: 2807.6377
+      Y: 7781.45166
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -7177,16 +7177,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 2642.52319
-      Y: 7082.19482
-      Z: -44.5909691
+      X: 2642.52295
+      Y: 7782.19482
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -7218,16 +7218,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 2561.00513
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 2561.00366
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -7259,16 +7259,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 2723.49365
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 2723.49268
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -7300,16 +7300,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 2889.50757
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 2889.50513
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -7342,15 +7342,15 @@ Objects {
   Transform {
     Location {
       X: 3136.2417
-      Y: 7081.45166
-      Z: -44.5909081
+      Y: 7781.45166
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -7382,16 +7382,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3052.05591
-      Y: 7081.11377
-      Z: 39.6549454
+      X: 3052.05518
+      Y: 7781.10107
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -7423,9 +7423,9 @@ Objects {
   Name: "Urban Fence Pole - Extender Connecting Corner"
   Transform {
     Location {
-      X: 3157.84131
-      Y: 2609.86084
-      Z: -45.9858513
+      X: 3157.84155
+      Y: 3309.86084
+      Z: -45.9858055
     }
     Rotation {
       Yaw: 89.026207
@@ -7433,7 +7433,7 @@ Objects {
     Scale {
       X: 0.436948091
       Y: 0.344434381
-      Z: 0.929745555
+      Z: 0.929745317
     }
   }
   ParentId: 4206371078053292795
@@ -7465,16 +7465,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 2889.77832
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 2889.7771
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -7507,15 +7507,15 @@ Objects {
   Transform {
     Location {
       X: 2971.12744
-      Y: 2609.69629
-      Z: -44.5909691
+      Y: 3309.69629
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -7547,16 +7547,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 3052.32642
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 3052.32544
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -7589,15 +7589,15 @@ Objects {
   Transform {
     Location {
       X: 3136.2417
-      Y: 2608.95264
-      Z: -44.5909081
+      Y: 3308.95264
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -7629,16 +7629,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 2561.1748
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 2561.17407
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -7670,16 +7670,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 2642.52344
-      Y: 2609.69629
-      Z: -44.5909691
+      X: 2642.52368
+      Y: 3309.69629
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -7711,16 +7711,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 2723.72266
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 2723.71924
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -7752,16 +7752,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 2807.63745
-      Y: 2608.95264
-      Z: -44.5909081
+      X: 2807.6377
+      Y: 3308.95264
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -7793,16 +7793,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 1908.31885
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 1908.31787
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -7834,16 +7834,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 1989.66785
-      Y: 2609.69629
-      Z: -44.5909691
+      X: 1989.66821
+      Y: 3309.69629
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -7875,16 +7875,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 2070.86646
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 2070.86621
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -7916,16 +7916,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 2152.91626
-      Y: 2611.07104
-      Z: -44.5909538
+      X: 2152.91675
+      Y: 3311.07104
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -7957,16 +7957,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 2233.125
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 2233.12402
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -7999,15 +7999,15 @@ Objects {
   Transform {
     Location {
       X: 2314.47363
-      Y: 2609.69629
-      Z: -44.5909691
+      Y: 3309.69629
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -8039,16 +8039,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 2395.6731
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 2395.67236
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -8081,15 +8081,15 @@ Objects {
   Transform {
     Location {
       X: 2479.58765
-      Y: 2608.95264
-      Z: -44.5909081
+      Y: 3308.95264
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -8121,16 +8121,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 1255.03809
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 1255.03833
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -8162,16 +8162,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 1336.38721
-      Y: 2609.69629
-      Z: -44.5909691
+      X: 1336.38708
+      Y: 3309.69629
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -8203,16 +8203,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 1417.58594
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 1417.58521
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -8244,16 +8244,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 1499.63501
-      Y: 2611.07104
-      Z: -44.5909538
+      X: 1499.6355
+      Y: 3311.07104
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -8285,16 +8285,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 1579.84424
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 1579.84448
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -8327,15 +8327,15 @@ Objects {
   Transform {
     Location {
       X: 1661.19324
-      Y: 2609.69629
-      Z: -44.5909691
+      Y: 3309.69629
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -8367,16 +8367,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 1742.39185
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 1742.39136
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -8408,16 +8408,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 1826.30688
-      Y: 2608.95264
-      Z: -44.5909081
+      X: 1826.30737
+      Y: 3308.95264
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -8449,16 +8449,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 1173.1593
-      Y: 2608.95264
-      Z: -44.5909081
+      X: 1173.15894
+      Y: 3308.95264
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -8490,16 +8490,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 846.487244
-      Y: 2611.07104
-      Z: -44.5909538
+      X: 846.487061
+      Y: 3311.07104
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -8531,16 +8531,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 926.696899
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 926.697
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -8573,15 +8573,15 @@ Objects {
   Transform {
     Location {
       X: 1008.04565
-      Y: 2609.69629
-      Z: -44.5909691
+      Y: 3309.69629
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -8614,15 +8614,15 @@ Objects {
   Transform {
     Location {
       X: 1089.24463
-      Y: 2608.79907
-      Z: 39.6549454
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -8654,16 +8654,16 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: 683.238708
-      Y: 2609.69629
-      Z: -44.5909691
+      X: 683.238586
+      Y: 3309.69629
+      Z: -44.59095
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -8695,16 +8695,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 764.438232
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 764.437683
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -8736,16 +8736,16 @@ Objects {
   Name: "Urban Fence Doorway"
   Transform {
     Location {
-      X: 365.175751
-      Y: 2614.84
-      Z: 49.9550743
+      X: 365.176086
+      Y: 3314.84
+      Z: 49.9549522
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -8777,16 +8777,16 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: 601.89032
-      Y: 2608.79907
-      Z: 39.6549454
+      X: 601.890076
+      Y: 3308.79272
+      Z: 39.6548233
     }
     Rotation {
     }
     Scale {
       X: 0.399999976
       Y: -1.03404975
-      Z: 0.450438678
+      Z: 0.450438559
     }
   }
   ParentId: 4206371078053292795
@@ -8818,9 +8818,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 2842.52563
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 3542.52563
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999619
@@ -8828,7 +8828,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -8860,17 +8860,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 2945.73755
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 3645.73755
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -8902,9 +8902,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 3050.57373
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 3750.57373
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -8912,7 +8912,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -8944,17 +8944,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 3361.38525
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 4061.3855
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -8986,9 +8986,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 3258.17334
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 3958.17358
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -8996,7 +8996,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -9028,9 +9028,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 4088.89746
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 4788.89746
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -9038,7 +9038,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -9070,17 +9070,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 3984.06128
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 4684.06152
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -9112,9 +9112,9 @@ Objects {
   Name: "Urban Fence Pole - Connecting"
   Transform {
     Location {
-      X: -2431.198
-      Y: 3881.29785
-      Z: -44.5909271
+      X: -2431.19873
+      Y: 4581.29785
+      Z: -44.59095
     }
     Rotation {
       Yaw: 89.9999542
@@ -9122,7 +9122,7 @@ Objects {
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.333333343
+      Z: 0.333333254
     }
   }
   ParentId: 4206371078053292795
@@ -9154,17 +9154,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 3776.46167
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 4476.46191
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795
@@ -9196,17 +9196,17 @@ Objects {
   Name: "Urban Fence Panel"
   Transform {
     Location {
-      X: -2432.40039
-      Y: 2737.68945
-      Z: 41.6763153
+      X: -2432.40015
+      Y: 3437.68945
+      Z: 41.6763077
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.399999976
       Y: 0.5
-      Z: 0.466137618
+      Z: 0.466137499
     }
   }
   ParentId: 4206371078053292795

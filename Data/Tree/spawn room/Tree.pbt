@@ -128,7 +128,7 @@ Objects {
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
-      X: -221.110321
+      X: -221.110306
       Y: -2
     }
     Rotation {
@@ -255,7 +255,7 @@ Objects {
       Z: 50
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.02
@@ -296,7 +296,7 @@ Objects {
       Z: 50
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 0.02

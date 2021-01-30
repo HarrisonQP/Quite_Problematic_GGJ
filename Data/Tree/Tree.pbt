@@ -21,6 +21,9 @@ Objects {
   ChildIds: 14982843161775482339
   ChildIds: 7108052822674497795
   ChildIds: 1783922909810114284
+  ChildIds: 15865027555542167610
+  ChildIds: 1157731925268770957
+  ChildIds: 2073961190598060767
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30,6 +33,139 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 2073961190598060767
+  Name: "UI Progress Bar"
+  Transform {
+    Location {
+      X: 45100
+      Y: -5800
+      Z: 16400
+    }
+    Rotation {
+      Yaw: 10.0000143
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Control {
+    Width: 200
+    Height: 60
+    RenderTransformPivot {
+      Anchor {
+        Value: "mc:euianchor:middlecenter"
+      }
+    }
+    StatBar {
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+      BackgroundColor {
+        R: 0.5
+        G: 0.5
+        B: 0.5
+        A: 1
+      }
+    }
+    AnchorLayout {
+      SelfAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+      TargetAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+    }
+  }
+}
+Objects {
+  Id: 1157731925268770957
+  Name: "UI Container"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Control {
+    RenderTransformPivot {
+      Anchor {
+        Value: "mc:euianchor:middlecenter"
+      }
+    }
+    Canvas {
+    }
+    AnchorLayout {
+      SelfAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+      TargetAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+    }
+  }
+}
+Objects {
+  Id: 15865027555542167610
+  Name: "Pier"
+  Transform {
+    Location {
+      X: 14500
+      Y: -950
+      Z: 1050
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Pier"
   }
 }
 Objects {
@@ -54,9 +190,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 423.143311
-            Y: 4859.03418
-            Z: 0.177429199
+            X: 423.142578
+            Y: 6259.03418
+            Z: 0.177734375
           }
         }
         Overrides {
@@ -67,6 +203,14 @@ Objects {
           Name: "Visible"
           Enum {
             Value: "mc:evisibilitysetting:forceoff"
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 0.999999762
           }
         }
       }
@@ -110,6 +254,7 @@ Objects {
   Name: "Default Floor"
   Transform {
     Location {
+      Y: 1400
       Z: -50
     }
     Rotation {
@@ -117,7 +262,7 @@ Objects {
     Scale {
       X: 50
       Y: 50
-      Z: 1
+      Z: 0.999999762
     }
   }
   ParentId: 4781671109827199097
@@ -240,6 +385,7 @@ Objects {
   Name: "Sun Light"
   Transform {
     Location {
+      Y: 1400
     }
     Rotation {
       Pitch: -45.8452454
@@ -249,7 +395,7 @@ Objects {
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: 0.999999762
     }
   }
   ParentId: 10005074784157121906
@@ -321,6 +467,14 @@ Objects {
         A: 1
       }
     }
+    Overrides {
+      Name: "bp:Draw Sun"
+      Bool: true
+    }
+    Overrides {
+      Name: "bp:Cast Shadows"
+      Bool: true
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -339,13 +493,14 @@ Objects {
   Name: "Skylight"
   Transform {
     Location {
+      Y: 1400
     }
     Rotation {
     }
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: 0.999999762
     }
   }
   ParentId: 10005074784157121906
@@ -418,13 +573,14 @@ Objects {
   Name: "Sky Dome"
   Transform {
     Location {
+      Y: 1400
     }
     Rotation {
     }
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: 0.999999762
     }
   }
   ParentId: 10005074784157121906
@@ -600,6 +756,7 @@ Objects {
   Name: "Third Person Camera"
   Transform {
     Location {
+      Y: 1400
       Z: 500
     }
     Rotation {
@@ -607,7 +764,7 @@ Objects {
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: 0.999999762
     }
   }
   ParentId: 724324913679364851
@@ -723,7 +880,7 @@ Objects {
   Transform {
     Location {
       X: 200
-      Y: -100
+      Y: 1300
       Z: 150
     }
     Rotation {
@@ -731,7 +888,7 @@ Objects {
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: 0.999999762
     }
   }
   ParentId: 4781671109827199097
@@ -744,7 +901,6 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   PlayerSpawnPoint {
-    TeamInt: 1
     PlayerScaleMultiplier: 1
   }
 }
