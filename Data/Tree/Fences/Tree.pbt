@@ -8732,6 +8732,7 @@ Objects {
   }
 }
 Objects {
+<<<<<<< HEAD
   Id: 4679236782267723323
   Name: "Urban Fence Doorway"
   Transform {
@@ -8773,6 +8774,8 @@ Objects {
   }
 }
 Objects {
+=======
+>>>>>>> 92ba9d6bb1aed08807429605db85659ee6a498d1
   Id: 5614988913442298089
   Name: "Urban Fence Panel"
   Transform {

@@ -17,30 +17,12 @@ Assets {
   }
 }
 Assets {
-  Id: 10616032761295822476
-  Name: "Capsule"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_capsule_001"
-  }
-}
-Assets {
   Id: 6814107677792876003
   Name: "Arch Fancy Peaked 6m"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_arch_fancy_ogive_6m_001"
-  }
-}
-Assets {
-  Id: 4652110797809491220
-  Name: "Car Paint 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_car-paint_001"
   }
 }
 Assets {

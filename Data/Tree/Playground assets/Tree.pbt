@@ -1853,9 +1853,15 @@ Objects {
   Name: "Carpet Tile Stairs 01"
   Transform {
     Location {
+<<<<<<< HEAD
       X: 439.95343
       Y: 2698.94629
       Z: 0.160029098
+=======
+      X: 398.895081
+      Y: 1998.94629
+      Z: 0.160079956
+>>>>>>> 92ba9d6bb1aed08807429605db85659ee6a498d1
     }
     Rotation {
       Yaw: -179.999954
@@ -1903,9 +1909,15 @@ Objects {
   Name: "Carpet Tile Stairs 01"
   Transform {
     Location {
+<<<<<<< HEAD
       X: 424.458923
       Y: 2292.87622
       Z: -37.6713524
+=======
+      X: 393.832794
+      Y: 1592.87622
+      Z: -37.6712112
+>>>>>>> 92ba9d6bb1aed08807429605db85659ee6a498d1
     }
     Rotation {
       Yaw: -179.999985
@@ -1953,9 +1965,15 @@ Objects {
   Name: "Fantasy Book 03"
   Transform {
     Location {
+<<<<<<< HEAD
       X: 334.061249
       Y: 2239.01147
       Z: -46.0870438
+=======
+      X: 307.190521
+      Y: 1539.01135
+      Z: -46.0870628
+>>>>>>> 92ba9d6bb1aed08807429605db85659ee6a498d1
     }
     Rotation {
       Roll: -88.8297119
@@ -2005,9 +2023,15 @@ Objects {
   Name: "Fantasy Book 02"
   Transform {
     Location {
+<<<<<<< HEAD
       X: 335.13
       Y: 2592.81689
       Z: -29.5919247
+=======
+      X: 309.360962
+      Y: 1892.81689
+      Z: -29.5919456
+>>>>>>> 92ba9d6bb1aed08807429605db85659ee6a498d1
     }
     Rotation {
       Pitch: -1.65368652
@@ -2051,9 +2075,15 @@ Objects {
   Name: "Fantasy Book 01"
   Transform {
     Location {
+<<<<<<< HEAD
       X: 351.456573
       Y: 3061.29126
       Z: 0.376826
+=======
+      X: 324.166168
+      Y: 2361.29126
+      Z: 0.376764953
+>>>>>>> 92ba9d6bb1aed08807429605db85659ee6a498d1
     }
     Rotation {
       Pitch: -0.0601806641
